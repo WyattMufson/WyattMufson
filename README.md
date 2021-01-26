@@ -6,7 +6,7 @@
 **A little about me**
 
 - 🔭 I’m currently the co-founder and CTO of Ryu Games, previously worked at Amazon and Grubhub
-- 🛠 I'm currently working on iOS SDK development alongside other things
+- 🛠 I'm currently working on iOS SDK development among other things
 - 👯 I’m looking to hire more software engineers for my internationally distributed team
 - 💬 Ask me about my love for ramen 
 - 📫 How to reach me: wyatt@ryu.games
