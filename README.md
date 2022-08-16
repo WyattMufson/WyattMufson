@@ -6,16 +6,13 @@
 **A little about me**
 
 - 🔭 I’m currently the co-founder and CTO of Ryu Games, previously worked at Amazon and Grubhub
-- 🛠 I'm currently working on iOS SDK development among other things
+- 🛠 I'm currently working on [Flame](https://flamestore.xyz), the "Steam" for Web3
 - 👯 I’m looking to hire more software engineers for my internationally distributed team
 - 💬 Ask me about my love for ramen 
 - 📫 How to reach me: wyatt@ryu.games
 
 **My tech**
 
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -27,7 +24,5 @@
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![BitBucket](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=WyattMufson.WyattMufson)
