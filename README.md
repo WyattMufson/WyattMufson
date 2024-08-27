@@ -5,11 +5,10 @@
 
 **A little about me**
 
-- 🔭 I’m currently the co-founder and CTO of Ryu Games, previously worked at Amazon and Grubhub
-- 🛠 I'm currently working on [Flame](https://flamestore.xyz), the "Steam" for Web3
-- 👯 I’m looking to hire more software engineers for my internationally distributed team
+- 🔭 I’m currently the Technical Director at Treasure and the co-founder and CTO of Ryu Games, previously worked at Amazon and Grubhub
+- 🛠 I'm currently working on [Treasure](https://treasure.lol), the decentralized game console
 - 💬 Ask me about my love for ramen 
-- 📫 How to reach me: wyatt@ryu.games
+- 📫 How to reach me: wyatt@treasure.lol
 
 **My tech**
 
