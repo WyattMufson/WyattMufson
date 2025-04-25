@@ -5,7 +5,7 @@
 
 **A little about me**
 
-- 🛠 I’m currently the Technical Director at [Treasure](https://treasure.lol), the decentralized game console.
-- 🏆 Previously co-founder & CTO of Ryu Games (acquired by Treasure), Amazon, and Grubhub
+- 🛠 I’m currently an incoming Senior Software Engineer at a large Boston based softwarethe company
+- 🏆 Previously co-founder & CTO of Ryu Games (acquired by Treasure), Technical Director at [Treasure](https://treasure.lol), Amazon, and Grubhub
 - 💬 Ask me about my love for ramen 
-- 📫 How to reach me: wyatt@treasure.lol
+- 📫 How to reach me: wyattmufson@gmail.com
