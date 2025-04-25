@@ -5,7 +5,7 @@
 
 **A little about me**
 
-- 🛠 I’m currently an incoming Senior Software Engineer at a large Boston based softwarethe company
-- 🏆 Previously co-founder & CTO of Ryu Games (acquired by Treasure), Technical Director at [Treasure](https://treasure.lol), Amazon, and Grubhub
+- 🛠 I’m currently an incoming Senior Software Engineer at a large Boston based software company
+- 🏆 Previously co-founder & CTO of Ryu Games (acquired by [Treasure](https://treasure.lol), where I was Technical Director), Amazon, and Grubhub
 - 💬 Ask me about my love for ramen 
 - 📫 How to reach me: wyattmufson@gmail.com
