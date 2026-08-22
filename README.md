@@ -3,7 +3,7 @@
 
 **A little about me**
 
-- 🛠 I’m currently a Team Lead (previously Senior Software Engineer) at Klaviyo, based in Boston
+- 🛠 I’m currently an Engineering Team Lead (previously Senior Software Engineer) at Klaviyo, based in Boston
 - 🏆 Previously co-founder & CTO of Ryu Games (acquired by [Treasure](https://treasure.lol), where I was Technical Director), Amazon, and Grubhub
 - 💬 Ask me about my love for ramen 
 - 📫 How to reach me: wyattmufson@gmail.com
